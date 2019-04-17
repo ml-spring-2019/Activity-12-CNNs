@@ -4,4 +4,4 @@ See [Tensor Flow Tutorial](https://codelabs.developers.google.com/codelabs/tfjs-
 
 Run with `python3 -m http.server`
 
-Then in browser, go to: `http://localhost:8000/`, `right click > Inspect`
+Then in browser, go to: [localhost](http://localhost:8000/), `right click > Inspect`
